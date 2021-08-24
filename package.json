@@ -1,0 +1,56 @@
+{
+  "name": "mageApp",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start",
+    "test": "jest"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
+  "dependencies": {
+    "firebase": "^4.6.2",
+    "native-base": "^2.3.5",
+    "react": "16.0.0",
+    "react-native": "0.51.0",
+    "react-native-async-image-animated": "^4.3.0",
+    "react-native-autogrow-input": "^0.1.1",
+    "react-native-carousel": "^0.11.0",
+    "react-native-carousel-control": "^2.0.1",
+    "react-native-fast-image": "^4.0.0",
+    "react-native-fbsdk": "^0.7.0",
+    "react-native-fcm": "^14.1.3",
+    "react-native-firebase": "^3.3.1",
+    "react-native-google-signin": "^0.12.0",
+    "react-native-keyboard-spacer": "^0.3.1",
+    "react-native-link-preview": "^1.3.0",
+    "react-native-message-bubble": "^1.0.6",
+    "react-native-progress": "^3.4.0",
+    "react-native-progress-bar-classic": "^1.2.1",
+    "react-native-router-flux": "^4.0.0-beta.24",
+    "react-native-simple-dialogs": "^0.3.1",
+    "react-native-simple-toast": "0.0.8",
+    "react-native-sound": "^0.10.9",
+    "react-native-swiper": "^1.5.13",
+    "react-native-thumbnail-video": "0.0.8",
+    "react-native-youtube": "^1.1.0",
+    "react-redux": "^5.0.6",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.2.1",
+    "redux-promise-middleware": "^5.0.0",
+    "redux-thunk": "^2.2.0",
+    "rn-prompt": "^1.0.2"
+  },
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

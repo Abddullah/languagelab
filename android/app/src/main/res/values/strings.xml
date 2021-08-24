@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MAGE</string>
+    <string name="facebook_app_id">309145069586987</string>
+    <string name="fb_login_protocol_scheme">fb309145069586987</string>
+
+</resources>

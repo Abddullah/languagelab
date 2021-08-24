@@ -1,0 +1,80 @@
+{
+  "stickers" : [
+    {
+      "filename" : "Icon-App-20x20@1x.sticker"
+    },
+    {
+      "filename" : "Icon-App-20x20@2x.sticker"
+    },
+    {
+      "filename" : "Icon-App-20x20@3x.sticker"
+    },
+    {
+      "filename" : "Icon-App-29x29@1x.sticker"
+    },
+    {
+      "filename" : "Icon-App-29x29@2x.sticker"
+    },
+    {
+      "filename" : "Icon-App-29x29@3x.sticker"
+    },
+    {
+      "filename" : "Icon-App-40x40@1x.sticker"
+    },
+    {
+      "filename" : "Icon-App-40x40@2x.sticker"
+    },
+    {
+      "filename" : "Icon-App-40x40@3x.sticker"
+    },
+    {
+      "filename" : "Icon-App-57x57@1x.sticker"
+    },
+    {
+      "filename" : "Icon-App-57x57@2x.sticker"
+    },
+    {
+      "filename" : "Icon-App-60x60@1x.sticker"
+    },
+    {
+      "filename" : "Icon-App-60x60@2x.sticker"
+    },
+    {
+      "filename" : "Icon-App-60x60@3x.sticker"
+    },
+    {
+      "filename" : "Icon-App-72x72@1x.sticker"
+    },
+    {
+      "filename" : "Icon-App-72x72@2x.sticker"
+    },
+    {
+      "filename" : "Icon-App-76x76@1x.sticker"
+    },
+    {
+      "filename" : "Icon-App-76x76@2x.sticker"
+    },
+    {
+      "filename" : "Icon-App-76x76@3x.sticker"
+    },
+    {
+      "filename" : "Icon-App-83.5x83.5@2x.sticker"
+    },
+    {
+      "filename" : "Icon-Small-50x50@1x.sticker"
+    },
+    {
+      "filename" : "Icon-Small-50x50@2x.sticker"
+    },
+    {
+      "filename" : "ItunesArtwork@2x.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "small"
+  }
+}

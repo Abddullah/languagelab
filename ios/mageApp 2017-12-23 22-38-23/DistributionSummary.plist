@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mageApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>bitcode</key>
+			<true/>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B100F199AB6E182CB277A6F11DADCDAA92470469</string>
+				<key>dateExpires</key>
+				<string>22/12/2018</string>
+				<key>type</key>
+				<string>iOS Distribution</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>H84TZ6Y9LA.org.reactjs.native.example.mageApp</string>
+				<key>beta-reports-active</key>
+				<true/>
+				<key>com.apple.developer.team-identifier</key>
+				<string>H84TZ6Y9LA</string>
+				<key>get-task-allow</key>
+				<false/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>H84TZ6Y9LA.org.reactjs.native.example.mageApp</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>mageApp.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>4b2a84a6-6102-4c61-a5aa-8d08ee4984f3</string>
+				<key>name</key>
+				<string>iOS Team Store Provisioning Profile: *</string>
+			</dict>
+			<key>symbols</key>
+			<true/>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>H84TZ6Y9LA</string>
+				<key>name</key>
+				<string>Samana Tahir</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

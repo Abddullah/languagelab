@@ -1,0 +1,8 @@
+{
+  "name": "mageApp",
+  "displayName": "mageApp",
+  "androidStatusBar": {
+    "barStyle": "light-content",
+    "backgroundColor": "#334393"
+    }
+}
